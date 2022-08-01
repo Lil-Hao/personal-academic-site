@@ -1,39 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hao Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MSc Student in Communications
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: CUHK(Shenzhen)
+    url: https://www.cuhk.edu.cn/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Intelligient Reflecting Surface(IRS), Integrated Sensing and Communciations(ISAC), UAV-assisted Communciations and MIMO.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - IRS
+  - ISAC
+  - MIMO
+  - UAV-assisted Communications
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Communications
+      institution: Chinese University of Hongkong, Shenzhen
+      year: 2022 - Now
+    - course: BSc in Electronic Information
+      institution: Ocean University of China
+      year: 2018 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +43,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Lil-Hao
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/%E6%98%8A-%E5%BC%A0-57117623a/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,8 +68,10 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! Thank you for visiting my academic page! I am Hao, who have strong interests in wireless communications, especially in Intelligient Reflecting Surface(IRS), Integrated Sensing and Communciations(ISAC), UAV-assisted Communciations and MIMO.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently a master student of [Communications Engineering](https://sse.cuhk.edu.cn/en/page/751) at the [Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en) in the [School of Science and Engineering](https://sse.cuhk.edu.cn/en).
+
+I received my bachelor degree in Eletronic Information Engineering from [Ocean University of China](http://eweb.ouc.edu.cn/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
