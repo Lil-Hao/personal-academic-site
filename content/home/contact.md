@@ -21,7 +21,7 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: Find Me on Twitter
+      name: Find Me on Twitter !
       link:
 
 
