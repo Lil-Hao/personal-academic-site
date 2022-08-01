@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: Mr Robot
-  theme_night: Earth
+  theme_day: Ocean
+  theme_night: Apogee
   font: minimal
   font_size: L
 
