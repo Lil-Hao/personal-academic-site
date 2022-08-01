@@ -22,7 +22,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: Find Me on Twitter !
-      link:
+      link: https://twitter.com/LilHao_Zhang
 
 
 design:
