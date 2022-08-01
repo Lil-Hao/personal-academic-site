@@ -43,7 +43,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: 
+    link: https://twitter.com/LilHao_Zhang
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: 
