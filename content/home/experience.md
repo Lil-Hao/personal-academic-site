@@ -25,7 +25,7 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: 'https://www.cuhk.edu.hk/english/index.html'
-    company_logo: CUHK
+    company_logo: CUHKLOGO
     location: California
     date_start: '2021-01-01'
     date_end: ''
