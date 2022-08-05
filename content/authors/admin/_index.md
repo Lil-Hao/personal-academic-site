@@ -74,4 +74,4 @@ I am currently a master student of [Communications Engineering](https://sse.cuhk
 
 I received my bachelor degree in Eletronic Information Engineering from [Ocean University of China](http://eweb.ouc.edu.cn/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} My CV is available in PDF {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or [Overleaf](https://www.overleaf.com/project/62eb681aebbfc33797f47c32)form.
