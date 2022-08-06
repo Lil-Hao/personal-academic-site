@@ -12,7 +12,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: 'Certificates'
 
 content:
   # Page type to display. E.g. project.
