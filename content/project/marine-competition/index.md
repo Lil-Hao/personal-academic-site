@@ -18,8 +18,8 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'uploads/Marine-Competition.pdf'
-url_slides: 'uploads/Marine-Certificate.pdf'
+url_pdf: 'uploads/Marine-Certificate.pdf'
+url_slides: 'uploads/Marine-Competition.pdf'
 url_video: ''
 
 # Slides (optional).
