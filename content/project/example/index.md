@@ -18,7 +18,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'uploads/海赛证书'
+url_pdf: 'uploads/海赛证书.pdf'
 url_slides: ''
 url_video: ''
 
