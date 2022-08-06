@@ -18,8 +18,8 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'uploads/海赛证书.pdf'
-url_slides: 'uploads/海赛项目.pdf'
+url_pdf: 'uploads/SRDP证书.pdf'
+url_slides: 'uploads/SRDP.pdf'
 url_video: ''
 
 # Slides (optional).
