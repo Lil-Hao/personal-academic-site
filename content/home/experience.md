@@ -30,6 +30,8 @@ experience:
     date_start: '2023-08-01'
     date_end: ''
     description: |2-
+        Advised by: Prof.
+        
         Responsibilities include:
         
         * 
@@ -43,6 +45,8 @@ experience:
     date_start: '2022-10-01'
     date_end: ''
     description: |2-
+        Advised by: Prof.
+        
         Responsibilities include:
         
         * 
@@ -55,8 +59,9 @@ experience:
     location: Tsingdao, China
     date_start: '2019-10-01'
     date_end: '2021-10-01'
-    description: |3-
+    description: |2-
         Advised by: Prof.Zhibin Yu 
+        
         Responsibilities include:
         
         * Implement deep learning algorithms(CNN, GAN) on underwater object detection
