@@ -27,14 +27,14 @@ experience:
     company_url: 'https://www.huawei.com/en/'
     company_logo: Huawei_Logo
     location: Tsingdao, China
-    date_start: '202x-xx-01'
+    date_start: '2023'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * 
+        * 
+        * 
   - title: Research Assistant
     company: FUCKU
     company_url: ''
