@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.huawei.com/en/'
     company_logo: Huawei_Logo
     location: Tsingdao, China
-    date_start: '2021-01-01'
+    date_start: '202x-xx-01'
     date_end: ''
     description: |2-
         Responsibilities include:
