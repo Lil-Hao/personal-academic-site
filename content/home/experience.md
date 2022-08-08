@@ -40,7 +40,7 @@ experience:
     company_url: 'https://www.cuhk.edu.cn/en'
     company_logo: CUHK_Logo
     location: Shenzhen, China
-    date_start: '2022-10'
+    date_start: '2022-10-01'
     date_end: ''
     description: |2-
         Responsibilities include:
