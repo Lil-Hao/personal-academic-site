@@ -51,11 +51,11 @@ experience:
 
   - title: Research Intern
     company: Ocean University of China
-    company_url: ''
+    company_url: 'http://eweb.ouc.edu.cn/'
     company_logo: OUC_Logo
     location: Tsingdao, China
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2019-10'
+    date_end: '2021-10'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
