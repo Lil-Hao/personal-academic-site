@@ -58,9 +58,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * 
-        * 
-        * 
+        * Implement deep learning algorithms(CNN, GAN) on underwater object detection
+        * Conduct research on manipulator control based on deep reinforcement learning
+        * Design a garbage sorting system based on computer vision and deep reinforcement learning
 
 design:
   columns: '2'
