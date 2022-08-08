@@ -55,7 +55,7 @@ experience:
     location: Tsingdao, China
     date_start: '2019-10-01'
     date_end: '2021-10-01'
-    description: |2-
+    description: |3-
         Advised by: Prof.Zhibin Yu 
         Responsibilities include:
         
