@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle:Research/Work
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
+  - title: Communications Engineer Intern
     company: HuaWei
-    company_url: 'https://www.cuhk.edu.cn/en'
+    company_url: 'https://www.huawei.com/en/'
     company_logo: Huawei_Logo
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Shenzhen, China
+    date_start: '202x-xx-xx'
+    date_end: '202x-xx-xx'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * 
+        * 
+        * 
   - title: CEO
     company: GenCoin
     company_url: 'https://www.cuhk.edu.cn/en'
