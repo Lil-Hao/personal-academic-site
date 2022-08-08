@@ -48,19 +48,7 @@ experience:
         * 
         * 
         * 
-- title: Research Intern
-    company: Chinese University of Hongkong, Shenzhen
-    company_url: 'https://www.cuhk.edu.cn/en'
-    company_logo: OUC_Logo
-    location: Shenzhen, China
-    date_start: '2022-10-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * 
-        * 
-        * 
+
 
 design:
   columns: '2'
