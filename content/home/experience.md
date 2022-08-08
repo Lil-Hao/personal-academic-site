@@ -48,7 +48,19 @@ experience:
         * 
         * 
         * 
-
+  - title: Communications Engineer Intern
+    company: Huawei
+    company_url: 'https://www.huawei.com/en/'
+    company_logo: Huawei_Logo
+    location: Shenzhen, China
+    date_start: '2023-08-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * 
+        * 
+        * 
 
 design:
   columns: '2'
