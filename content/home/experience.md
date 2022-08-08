@@ -48,19 +48,7 @@ experience:
         * 
         * 
         * 
-- title: Research Intern
-    company: Ocean University of China
-    company_url: 'http://eweb.ouc.edu.cn/'
-    company_logo: OUC_Logo
-    location: Tsingdao, China
-    date_start: '2019-10-01'
-    date_end: '2021-10-01'
-    description: |2-
-        Responsibilities include:
-        
-        * 
-        * 
-        * 
+
 design:
   columns: '2'
 ---
