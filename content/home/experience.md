@@ -28,7 +28,7 @@ experience:
     company_logo: Huawei_Logo
     location: Shenzhen, China
     date_start: '202x-xx-xx'
-    date_end: '202x-xx-xx'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
