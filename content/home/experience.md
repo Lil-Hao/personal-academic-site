@@ -26,7 +26,7 @@ experience:
     company: Huawei
     company_url: 'https://www.huawei.com/en/'
     company_logo: Huawei_Logo
-    location: Tsingdao, China
+    location: Shenzhen, China
     date_start: '2023-08-01'
     date_end: ''
     description: |2-
@@ -36,18 +36,18 @@ experience:
         * 
         * 
   - title: Research Assistant
-    company: FUCKU
-    company_url: ''
+    company: Chinese University of Hongkong, Shenzhen
+    company_url: 'https://www.cuhk.edu.cn/en'
     company_logo: CUHK_Logo
-    location: California
-    date_start: '2021-01-01'
+    location: Shenzhen, China
+    date_start: '2022-10-20'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * 
+        * 
+        * 
 
   - title: Professor of Semiconductor Physics
     company: University X
