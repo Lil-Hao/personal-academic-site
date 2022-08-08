@@ -48,11 +48,11 @@ experience:
         * 
         * 
         * 
-  - title: Communications Engineer Intern
-    company: Huawei
-    company_url: 'https://www.huawei.com/en/'
-    company_logo: Huawei_Logo
-    location: Shenzhen, China
+  - title: Research Intern
+    company: Ocean University of China
+    company_url: 'http://eweb.ouc.edu.cn/'
+    company_logo: OUC_Logo
+    location: Tsingdao, China
     date_start: '2023-08-01'
     date_end: ''
     description: |2-
