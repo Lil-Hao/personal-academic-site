@@ -25,7 +25,7 @@ experience:
   - title: CEO
     company: HuaWei
     company_url: 'https://www.cuhk.edu.cn/en'
-    company_logo: Huawei_logo
+    company_logo: Huawei_Logo
     location: California
     date_start: '2021-01-01'
     date_end: ''
