@@ -57,6 +57,7 @@ experience:
     date_end: '2021-10-01'
     description: |2-
         Advised by: Prof.Zhibin Yu
+        
         Responsibilities include:
         
         * Implement deep learning algorithms(CNN, GAN) on underwater object detection
