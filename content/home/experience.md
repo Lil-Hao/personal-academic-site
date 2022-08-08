@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
+  - title: Communications Engineer Intern
     company: Huawei
     company_url: 'https://www.huawei.com/en/'
     company_logo: Huawei_Logo
@@ -49,14 +49,19 @@ experience:
         * 
         * 
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Research Intern
+    company: Ocean University of China
+    company_url: 'http://eweb.ouc.edu.cn/'
     company_logo: OUC_Logo
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Tsingdao, China
+    date_start: '2019-10-01'
+    date_end: '2021-10-01'
+    description: |2-
+        Responsibilities include:
+        
+        * 
+        * 
+        * 
 
 design:
   columns: '2'
