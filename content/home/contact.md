@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: zhacademic@163.com
+  email: haozhang1@link.cuhk.edu.cn
   phone: +86 13627941978
   contact_links:
     - icon: twitter
