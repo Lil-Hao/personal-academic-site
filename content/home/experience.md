@@ -45,14 +45,14 @@ experience:
     date_start: '2022-10-01'
     date_end: ''
     description: |2-
-        Advised by: Prof.
+        Advised by: Prof.Jianwei Huang and Prof.Lin Gao
         
         Responsibilities include:
         
         * 
         * 
         * 
-  - title: Research Intern
+  - title: Research Assistant
     company: Ocean University of China
     company_url: 'http://eweb.ouc.edu.cn/'
     company_logo: OUC_Logo
