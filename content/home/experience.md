@@ -37,7 +37,7 @@ experience:
         * 
         * 
         * 
-  - title: Research Assistant(Network Communications and Economics Lab)
+  - title: Research Assistant | Network Communications and Economics Lab
     company: Chinese University of Hongkong, Shenzhen
     company_url: 'https://ncel.cuhk.edu.cn/'
     company_logo: CUHK_Logo
@@ -52,7 +52,7 @@ experience:
         * 
         * 
         * 
-  - title: Research Assistant(Underwater AI Lab)
+  - title: Research Assistant | Underwater AI Lab
     company: Ocean University of China
     company_url: 'http://www.underwaterai.cn/'
     company_logo: OUC_Logo
