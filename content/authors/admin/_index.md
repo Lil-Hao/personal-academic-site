@@ -14,14 +14,14 @@ organizations:
     url: https://www.cuhk.edu.cn/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Intelligient Reflecting Surface(IRS), Integrated Sensing and Communciations(ISAC), UAV-assisted Communciations and MIMO.
+bio: My research interests include Network Economics, Intelligient Reflecting Surface and MIMO.
 
 # Interests to show in About widget
 interests:
-  - IRS
-  - ISAC
+  - Network Economics
+  - Intelligient Reflecting Surface
   - MIMO
-  - UAV-assisted Communications
+  
 
 # Education to show in About widget
 education:
