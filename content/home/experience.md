@@ -40,7 +40,7 @@ experience:
   - title: Research Assistant(Network Communications and Economics Lab)
     company: Chinese University of Hongkong, Shenzhen
     company_url: 'https://ncel.cuhk.edu.cn/'
-    company_logo: CUHK_Logo
+    company_logo: NCEL_Logo.gif
     location: Shenzhen, China
     date_start: '2022-10-01'
     date_end: ''
