@@ -68,7 +68,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! Thank you for visiting my academic page! I am Hao, who have strong interests in wireless communications, especially in Intelligient Reflecting Surface(IRS), Integrated Sensing and Communciations(ISAC), UAV-assisted Communciations and MIMO.
+Hi! Thank you for visiting my academic page! I am Hao, who have strong interests in wireless communications, especially in Network Economics, Intelligient Reflecting Surface and MIMO.
 
 I am currently a master student of [Communications Engineering](https://sse.cuhk.edu.cn/en/page/751) at the [Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en) in the [School of Science and Engineering](https://sse.cuhk.edu.cn/en).
 
